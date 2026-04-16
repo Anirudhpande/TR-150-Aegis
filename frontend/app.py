@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # API base URL
-API_BASE = "http://localhost:8000"
+API_BASE = "https://tr-150-aegis.onrender.com"
 
 def get_api_data(endpoint: str):
     """Get data from API endpoint"""
